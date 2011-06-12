@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.4.jar" sourcepath="C:/Users/c0d3R/.m2/repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/miglayout-3.7.3.1-swing.jar"/>
+	<classpathentry kind="lib" path="lib/ocpsoft-pretty-time-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/jcl-over-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/AnimatedTransitions-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/TimingFramework-1.0.jar" sourcepath="C:/Users/c0d3R/.m2/repository/net/java/dev/timingframework/timingframework/1.0/timingframework-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/imgscalr-lib.jar"/>
+	<classpathentry kind="lib" path="lib/twitter4j-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/twitter4j-media-support-2.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
