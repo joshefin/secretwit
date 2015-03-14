@@ -1,5 +1,3 @@
-# secretwit
-
 ![](https://github.com/joshefin/secretwit/blob/master/dist/logo.png)
 
 ## What it is
